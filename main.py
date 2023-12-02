@@ -18,7 +18,7 @@ def index():
 def get_completion(prompt, model="gpt-3.5-turbo"):
     prompt_answer = f"""
     Perform the following actions: 
-    1 - I will give you the nutrition name I need
+    1 - I will give you the nutrition name
     2 - Specify two foods based on nutrition
     3 - Answer questions in the formation part
     4 - For the `Food` part, we want the formation to be: 
