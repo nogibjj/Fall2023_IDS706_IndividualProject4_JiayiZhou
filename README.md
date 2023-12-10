@@ -4,7 +4,7 @@
 This is for class data engineering individual project 4: build a publicly accessible auto-scaling container using Azure App Services and Flask. This is an easy way to build and deploy a scaleable web-hosted.
 
 ### Video
-[YouTube](https://youtu.be/C-rZvuf1OUQ](https://youtu.be/46Ns00ozexE)
+[YouTube](https://youtu.be/46Ns00ozexE)
 
 ### Overview
 The app is a food recommendation application based on the input of nutrients. It is a Flask web application integrated with OpenAI's LLM model, utilizing Docker for effective containerization. Here is a brief workflow overview of the Flask web application:
